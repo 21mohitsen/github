@@ -1,5 +1,6 @@
 """This module demonstrates a simple function example."""
 
+
 def my_function():
     """Return a fixed integer value."""
     a = 5
